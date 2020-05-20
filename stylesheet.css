@@ -1,0 +1,38 @@
+/* Background for overall page */
+.background {
+  background-color:	#FFFAFA;
+}
+
+/* Top navigation bar */
+.topnav {
+  background-color: #FFFAFA;
+  overflow: hidden;
+  font-family: Georgia;
+}
+
+/* Links within navigation bar */
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px; 
+}
+
+/* Hovering over links */
+.topnav a:hover {
+  background-color: #FFFAFA;
+  color: #c71585;
+}
+
+/* Style text on home page */
+.homepage {
+  font-family: Georgia;
+  text-align: center;
+}
+
+/* Style text on pages excludes home page and blog page */
+.regpage {
+  font-family: Georgia;
+}
