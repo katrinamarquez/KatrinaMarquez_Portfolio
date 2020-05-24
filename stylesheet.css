@@ -78,6 +78,21 @@
   font-size: 110%;
 }
 
+/* Configuration of text for blog posts */
+.blog_sizing {
+  font-family: Georgia; 
+  margin-left: 350px;
+  margin-right: 350px;   
+  text-align: left;
+  font-size: 110%;
+}
+
+/* Remove underline from hyperlinks on website */
+.blog-links {
+  text-decoration: none;
+  color: black;
+}
+
 /* Placement of social media icons */
 .icons {
   display: flex;
