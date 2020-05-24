@@ -115,7 +115,7 @@
   color: #c71585;
 }
 
-/* Flex set up for thoughts page (i.e. blog page) */
+/* Flex set up for blog page */
 .flex-container {
   display: flex;
   flex-direction: row; 
@@ -125,6 +125,21 @@
 
 /* Configuration of items within flex-container. Create space between each blog post */
 .flex-item {
+  box-sizing: border-box;
+  margin: 10px 10px 0 0;
+  width: calc(1/3*100% - (1 - 1/3) * 10px);
+}
+
+/* Flex set up for projects page (i.e. blog page) */
+.flex-container-projects {
+  display: flex;
+  flex-direction: column; 
+  justify-content: left;
+  background-color: #FFFAFA;
+}
+
+/* Configuration of items within flex-container. Create space between each project */
+.flex-item-projects {
   box-sizing: border-box;
   margin: 10px 10px 0 0;
   width: calc(1/3*100% - (1 - 1/3) * 10px);
