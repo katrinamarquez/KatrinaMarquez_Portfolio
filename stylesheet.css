@@ -30,9 +30,71 @@
 .homepage {
   font-family: Georgia;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.highlight_pink {
+  color: #c71585;
 }
 
 /* Style text on pages excludes home page and blog page */
 .regpage {
   font-family: Georgia;
+  text-align: center;
+}
+
+/* Styling H2 elements on website pages (other than homepage) */
+.h1 {
+  font-family: Georiga; 
+  text-align: center;
+  color: #c71585;
+}
+
+/* Styling for pages with minimal text. Make text bigger (contact me) */ 
+.smallpage {
+  font-family: Georgia; 
+  font-size: 110%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Styling image on home screen */
+.homepage_image {
+  overflow: hidden;
+  max-height: auto;
+  display: flex;
+  justify-content: center;
+  opacity: 90%;
+}
+
+/* Center blocks of text on pages with large chunks of information (e.g. bio page) */
+.textbox_sizing {
+  font-family: Georgia; 
+  margin-left: 350px;
+  margin-right: 350px;   
+  text-align: center;
+  font-size: 110%;
+}
+
+/* Placement of social media icons */
+.icons {
+  display: flex;
+  justify-content: center;
+}
+
+/* Style social media icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center:
+  text-decoration: none;
+  color: black;
+  text-decoration: none;
+}
+
+/* Hover over effect over social media links button */
+.fa:hover {
+  color: #c71585;
 }
