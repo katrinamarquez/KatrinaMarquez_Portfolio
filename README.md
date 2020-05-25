@@ -47,6 +47,23 @@ Follow the link below to see the site map created for this project.
    *documents/wireframes_katrina_portfolio.pdf*
 
 ## Final Screenshots 
+Homepage
+![homepage_final.png](images/homepage_final.png)
+
+Bio
+![bio_final.png](images/bio_final.png)
+
+Projects
+![projects_final.png](images/projects_final.png)
+
+Blog
+![blog_final.png](images/blog_final.png)
+
+Blog Post
+![blogpost_final.png](images/blogpost_final.png)
+
+Contact Me
+![contact_final.png](images/contact_final.png)
 
 ## Target Audience
 The target audience for the portfolio is aimed at potential employers and clients.
