@@ -7,7 +7,7 @@
 .navbar {
   overflow: hidden;
   background-color: #FFFAFA;
-  font-family: Georgia;
+  font-family: Arial;
 }
 
 /* Links inside the navbar */
@@ -35,7 +35,7 @@
   border-radius: 0.12em;
   box-sizing: border-box;
   text-decoration: none;
-  font-family: Georgia;
+  font-family: Arial;
   font-weight: 300;
   color: black;
   text-align: center;
@@ -53,7 +53,7 @@
   display: inline-block;
   box-sizing: border-box;
   text-decoration: none;
-  font-family: Georiga;
+  font-family: Arial;
   font-weight: 300;
   color: black;
   text-align: center;
@@ -86,7 +86,7 @@
 
 /* Style text on home page */
 .homepage {
-  font-family: Georgia;
+  font-family: Arial;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -100,7 +100,7 @@
 
 /* Style text on pages excludes home page and blog page */
 .regpage {
-  font-family: Georgia;
+  font-family: Arial;
   text-align: center;
   font-size: 2vmin;
 }
@@ -115,7 +115,7 @@
 
 /* Styling for pages with minimal text. Make text bigger (contact me) */ 
 .smallpage {
-  font-family: Georgia; 
+  font-family: Arial; 
   font-size: 2vmin;
   margin-left: auto;
   margin-right: auto;
@@ -132,7 +132,7 @@
 
 /* Center blocks of text on pages with large chunks of information (e.g. bio page) */
 .textbox_sizing {
-  font-family: Georgia; 
+  font-family: Arial; 
   margin-left: auto;
   margin-right: auto; 
   text-align: center;
@@ -141,7 +141,7 @@
 
 /* Configuration of text for blog posts */
 .blog_sizing {
-  font-family: Georgia;
+  font-family: Arial;
   text-align: left;
   font-size: 2vmin;
 }
