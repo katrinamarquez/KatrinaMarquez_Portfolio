@@ -76,7 +76,7 @@
 /* Add pink background color to dropdown links on hover */
 .dropdown-content a:hover {
   background-color: #FFFAFA;
-  color: #c71585
+  color: royalblue
 }
 
 /* Show the dropdown menu on hover */
@@ -95,7 +95,7 @@
 
 /* Highlight some words pink class */ 
 .highlight_pink {
-  color: #c71585;
+  color: royalblue;
 }
 
 /* Style text on pages excludes home page and blog page */
@@ -110,7 +110,7 @@
   font-family: Georiga; 
   text-align: center;
   font-size: 2vmin;
-  color: #c71585;
+  color: royalblue;
 }
 
 /* Styling for pages with minimal text. Make text bigger (contact me) */ 
@@ -171,7 +171,7 @@
 
 /* Hover over effect over social media links button */
 .fa:hover {
-  color: #c71585;
+  color: royalblue;
 }
 
 /* Flex set up for blog page */
