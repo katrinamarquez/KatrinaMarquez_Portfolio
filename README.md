@@ -1,13 +1,14 @@
-# Katrina Marquez - Personal Portfolio
+# Katrina Marquez Portfolio
 # T1A3_Portfolio
 
 ## Website Link
+Link to website link: https://gracious-sinoussi-cff6ee.netlify.app/
 
 ## GitHub Repo Link
 Link to GitHub Repo link: https://github.com/katrinamarquez/KatrinaMarquez_Portfolio 
 
-## Project Management
-Link to Trello board: https://trello.com/b/kTH1U7Oi/portfolio-assessment-katrina-marquez 
+## Purpose
+Portfolios are used to show potential employers, clients and other professional relationships a person's work. This portfolio is intended to showcase my experience, projects and ways to contact me online. In addition to linking relevant information, the portfolio is designed to show more of my personality through its design themes. 
 
 ## Functionality and Features
 Pages that are accessible on the website:
@@ -19,24 +20,38 @@ Pages that are accessible on the website:
   - contact me page.
 
 Features:
-  - Topnav menu appears on all pages. The homepage is a button with 'Katrina Marquez' and is located on the left side of the page. All other pages listed above are located on the right side of the page. 
+  - The menu button appears on all pages.
   - Linkedin, Twitter and GitHub links at the footer of every page.
 
 ## Sitemap
+Follow the link below to see the site map created for this project.
 ![sitemap.png](images/sitemap.png)
 
 ## Design Process
-  * Inspiration
+  **Inspiration**
+  The general theme that I included in my portfolio was simple and minimal web pages. I generally liked using colour to emphasise important parts on the website. For example, my homepage was inspired by Ryan Kulp's homepage. I wanted to have one key sentence that provided an introduction to my projects.
+
   - [Dave Allie](https://daveallie.com/)
   - [Ryan Kulp](https://www.ryanckulp.com/)
   - [Jenna Coles](http://jennacoles.com/)
   - [Toy Fight](https://toyfight.co/)
 
-  * Wireframes
+  **Wireframes**
+  The initial designs for the portfolio were created for both desktop and mobile. I have included a PDF of the wireframes created at the begining of the project. 
 
-  * Final Design
+  Below is an example of how the wireframes look like for mobile and desktop versions. 
+  ![desktop_wireframe.png](images/desktop_wireframe.png)
+  ![mobile_wireframe.png](images/mobile_wireframe.png)
 
-  * Tech Stack
+  If you want to see the full wireframes for the whole portfolio, the PDF can be found at:
+   *documents/wireframes_katrina_portfolio.pdf*
+
+## Final Screenshots 
+
+## Target Audience
+The target audience for the portfolio is aimed at potential employers and clients.
+
+## Tech Stack
   The website was created using:
     - HTML; and
     - CSS.
