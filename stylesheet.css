@@ -84,35 +84,13 @@
   display: block;
 }
 
-/* Top navigation bar */
-.topnav {
-  background-color: #FFFAFA;
-  overflow: hidden;
-  font-family: Georgia;
-}
-
-/* Links within navigation bar */
-.topnav a {
-  float: right;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px; 
-}
-
-/* Hovering over links */
-.topnav a:hover {
-  background-color: #FFFAFA;
-  color: #c71585;
-}
-
 /* Style text on home page */
 .homepage {
   font-family: Georgia;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  font-size: 2vmin;
 }
 
 /* Highlight some words pink class */ 
@@ -124,19 +102,21 @@
 .regpage {
   font-family: Georgia;
   text-align: center;
+  font-size: 2vmin;
 }
 
 /* Styling H2 elements on website pages (other than homepage) */
 .h1 {
   font-family: Georiga; 
   text-align: center;
+  font-size: 2vmin;
   color: #c71585;
 }
 
 /* Styling for pages with minimal text. Make text bigger (contact me) */ 
 .smallpage {
   font-family: Georgia; 
-  font-size: 110%;
+  font-size: 2vmin;
   margin-left: auto;
   margin-right: auto;
 }
@@ -153,19 +133,17 @@
 /* Center blocks of text on pages with large chunks of information (e.g. bio page) */
 .textbox_sizing {
   font-family: Georgia; 
-  margin-left: 350px;
-  margin-right: 350px;   
+  margin-left: auto;
+  margin-right: auto; 
   text-align: center;
-  font-size: 110%;
+  font-size: 2vmin;
 }
 
 /* Configuration of text for blog posts */
 .blog_sizing {
-  font-family: Georgia; 
-  margin-left: 350px;
-  margin-right: 350px;   
+  font-family: Georgia;
   text-align: left;
-  font-size: 110%;
+  font-size: 2vmin;
 }
 
 /* Remove underline from hyperlinks on website */
